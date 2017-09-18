@@ -1,0 +1,103 @@
+* {
+    margin-block-start: stretch;
+    padding-top:2px;
+    background-color: #00C7FF;
+}
+
+p {
+    text-align:center;
+}
+
+h1 {
+    text-align:center;
+}
+
+main {
+    text-align: center;
+}
+
+article {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+#SI {
+    color: blueviolet;
+}
+
+#LR {
+    color: blueviolet;
+}
+
+#HY {
+    color: blueviolet;
+}
+
+#BE {
+    color: blueviolet;
+}
+
+#BC {
+    color: blueviolet;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    image-orientation: angle;
+    object-fit: cover;
+    border-radius: 18px;
+    max-width: 500px;
+    max-height: 700px;
+    padding-top: 1px;
+}
+
+body {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    border: 10px solid lightgrey;
+    border-radius: 18px;
+
+}
+table {
+    padding-top: 1px;
+    margin-top: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid lightblue;
+    border-radius: 18px;
+    height: 100px;
+    width: 300px;
+    background-color: lightblue;
+}
+
+th {
+    border: 2px solid black;
+    width:auto;
+    
+    border-radius: 18px;
+}
+
+p.husky {
+    color : white;
+}
+
+p.Shiba{
+    color: white;
+}
+
+p.BorderC {
+    color: white;
+}
+
+p.Beagle {
+    color: white;
+}
+
+p.Labrador {
+    color: white;
+}
